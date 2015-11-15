@@ -3,7 +3,7 @@
 
   <remote  name="xoplax"
            fetch="https://github.com/XoplaxOS"
-           revision="refs/heads/xos-2.1" />
+           revision="refs/heads/xos-3.0" />
 
   <remote name="bitbucket" 
           fetch="https://bitbucket.org/" />
