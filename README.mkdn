@@ -12,7 +12,19 @@ Then sync up :
 
 	repo sync
 
-Please see the [Xoplax Dev Website](http://os.xoplaxdev.org) for building instructions.
+How to build?
+Simply execute the envsetup in top source dir
+
+	. build/envsetup.sh
+
+or
+
+	source build/envsetup.sh
+
+Then build! :
+
+	build
+
 For more information about the contributor and how it is structured, please read our Thread in [KasKus](http://kaskus.co.id/thread/560759f8e05227795c8b4569/official-xoplax-os/1)
 
 Buildbot
